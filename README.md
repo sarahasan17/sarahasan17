@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sarahasan17
-- Flutter developer
-- Learning Node.js
-- Looking forward to working on some good project ideas
-- contact me through my email sarahasan.rnc@gmail.com 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p> 
 
 
