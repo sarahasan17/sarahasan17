@@ -1,4 +1,4 @@
-<h1 align="center">Hi, This is Sara</h1>
+<h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 
 - 🌱 I’m currently learning **Node.js**
@@ -6,6 +6,8 @@
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **sarahasan.rnc@gmail.com**
+
+- ⚡ **Looking forward to work on good project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahasan17&show_icons=true&locale=en" alt="sarahasan17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahasan17&" alt="sarahasan17" /></p>
-
