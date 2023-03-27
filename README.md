@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sarahasan.rnc@gmail.com**
 
-- ⚡ **Looking forward to work on good project**
+- ⚡ **Looking forward to work on good project ideas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
