@@ -1,5 +1,5 @@
 <h1 align="center">Hi, this is Sara</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">A Flutter Enthusiast</h3>
 
 - 🌱 I’m currently learning **Node.js**
 
