@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Sara</h1>
 <h3 align="left">I am a Flutter Enthusiast</h3>
 
-- 🌱 ** Machine Lerning **
+- 🌱 **Machine Learning**
 
 - 💬 Ask me about **Flutter**
 
