@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Sara</h1>
-<h3 align="left">I am a Flutter Enthusiast</h3>
+<h3 align="left">I am a Flutter Developer</h3>
 
-- 🌱 **Machine Learning**
+- 🌱 **Machine Learning Enthusiast**
 
 - 💬 Ask me about **Flutter**
 
