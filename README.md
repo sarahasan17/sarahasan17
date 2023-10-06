@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Sara</h1>
+<h1 align="center">Hi, this is Sara</h1>
 <h3 align="left">I am a Flutter Developer</h3>
 
 - 🌱 **Machine Learning Enthusiast**
